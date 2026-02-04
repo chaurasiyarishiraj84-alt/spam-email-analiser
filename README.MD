@@ -92,7 +92,7 @@ spam-email-detection/
 ### 1️⃣ Clone the repository
 ```bash
 
-git clone https://github.com/your-username/spam-email-detection.git
+git clone https://github.com/chaurasiyaishiraj84-alt/spam-email-analiser.git
 cd spam-email-detection
 2️⃣ Create virtual environment (optional but recommended)
 python -m venv .venv
@@ -145,3 +145,4 @@ B.Tech in Artificial Intelligence & Machine Learning
 
 📜 License
 This project is open-source and available under the MIT License.
+
