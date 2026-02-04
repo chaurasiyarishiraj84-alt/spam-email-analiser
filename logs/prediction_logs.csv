@@ -1,0 +1,77 @@
+timestamp,email_text,prediction
+2026-01-31 16:34:31,Congratulations! You have won a free iPhone. Click now.,SPAM
+2026-02-01 01:02:20,"Subject: Congratulations! You’ve won a $1,000 gift card!
+
+Dear User,
+
+We are excited to inform you that you have been selected to receive a $1,000 Amazon gift card. To claim your prize, click the link below immediately and enter your details:
+
+http://bit.ly/claim-giftcard-now
+
+Hurry! This offer expires in 24 hours.  
+
+Best regards,
+Rewards Team
+",SPAM
+2026-02-01 01:02:34,"Subject: Congratulations! You’ve won a $1,000 gift card!
+
+Dear User,
+
+We are excited to inform you that you have been selected to receive a $1,000 Amazon gift card. To claim your prize, click the link below immediately and enter your details:
+
+http://bit.ly/claim-giftcard-now
+
+Hurry! This offer expires in 24 hours.  
+
+Best regards,
+Rewards Team
+",SPAM
+2026-02-01 01:02:39,"Subject: Team Meeting Reminder
+
+Hi Team,
+
+Just a reminder that we have our weekly project meeting tomorrow at 10:00 AM in the conference room. Please prepare your updates and any blockers you are facing.
+
+Looking forward to seeing everyone.
+
+Thanks,  
+John
+",HAM
+2026-02-02 13:04:15,Congratulations! You won $1000.,SPAM
+2026-02-02 13:19:42,"Dear User,
+
+Congratulations! 🎉
+You have been randomly selected as the **LUCKY WINNER** of ₹10,00,000 in our international lottery program.
+
+To claim your prize, please **click the link below** and submit your bank details immediately:
+👉 Claim Your Reward Now
+
+⚠️ Failure to respond within 24 hours will result in **permanent cancellation**.
+
+Best Regards,
+Prize Distribution Team
+Global Rewards Commission
+",SPAM
+2026-02-02 13:20:04,"Hello Team,
+
+This is a reminder that we have a **project review meeting scheduled for tomorrow, February 3, at 11:00 AM**.
+
+📍 Mode: Google Meet
+📄 Agenda:
+
+* Progress update
+* Pending tasks
+* Next milestones
+
+Please be on time and review the shared document beforehand.
+
+Thank you,
+Project Coordinator
+",HAM
+2026-02-02 21:28:43,"congratulation you win 10000
+",SPAM
+2026-02-02 21:28:55,"aalu lalo
+",HAM
+2026-02-02 21:30:03,"congrats y've
+got 10000 
+",HAM
