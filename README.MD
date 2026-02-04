@@ -92,59 +92,7 @@ spam-email-detection/
 ### 1️⃣ Clone the repository
 ```bash
 
-git clone https://github.com/chaurasiyaishiraj84-alt/spam-email-analiser.git
-cd spam-email-detection
-2️⃣ Create virtual environment (optional but recommended)
-python -m venv .venv
-
-3️⃣ Install dependencies
-pip install -r requirements.txt
-
-▶️ Run the Application
-Streamlit Web App
-streamlit run app.py
-Then open the URL shown in the terminal and enter an email to classify.
-
-CLI Prediction (optional)
-python src/predict.py
-
-🧪 Model Details
-Vectorizer: TF-IDF (max_features=5000, ngram_range=(1,2))
-
-Model: Multinomial Naive Bayes
-
-Evaluation: Accuracy, Precision, Recall, F1-score (via model_evaluation.py)
-
-🔁 Retraining Support
-New emails can be logged and later used to retrain the model using:
-
-python src/retrain_model.py
-This allows continuous model improvement.
-
-🌍 Deployment
-The project is fully deployment-ready and can be hosted on:
-
-Hugging Face Spaces
-
-Streamlit Cloud
-
-📌 Future Enhancements
-Prediction confidence scores
-
-User feedback-based retraining
-
-REST API using FastAPI
-
-Dockerization
-
-Cloud deployment
-
-👤 Author
-Developed by [Rishi Raj Chaurasiya]
-B.Tech in Artificial Intelligence & Machine Learning
-
-📜 License
-This project is open-source and available under the MIT License.
+git clone https://github.com/chaurasiyarishiraj84-alt/spam-email-analiser.git
 
 cd spam-email-detection
 2️⃣ Create virtual environment (optional but recommended)
@@ -198,5 +146,59 @@ B.Tech in Artificial Intelligence & Machine Learning
 
 📜 License
 This project is open-source and available under the MIT License.
+
+cd spam-email-detection
+2️⃣ Create virtual environment (optional but recommended)
+python -m venv .venv
+
+3️⃣ Install dependencies
+pip install -r requirements.txt
+
+▶️ Run the Application
+Streamlit Web App
+streamlit run app.py
+Then open the URL shown in the terminal and enter an email to classify.
+
+CLI Prediction (optional)
+python src/predict.py
+
+🧪 Model Details
+Vectorizer: TF-IDF (max_features=5000, ngram_range=(1,2))
+
+Model: Multinomial Naive Bayes
+
+Evaluation: Accuracy, Precision, Recall, F1-score (via model_evaluation.py)
+
+🔁 Retraining Support
+New emails can be logged and later used to retrain the model using:
+
+python src/retrain_model.py
+This allows continuous model improvement.
+
+🌍 Deployment
+The project is fully deployment-ready and can be hosted on:
+
+Hugging Face Spaces
+
+Streamlit Cloud
+
+📌 Future Enhancements
+Prediction confidence scores
+
+User feedback-based retraining
+
+REST API using FastAPI
+
+Dockerization
+
+Cloud deployment
+
+👤 Author
+Developed by [Rishi Raj Chaurasiya]
+B.Tech in Artificial Intelligence & Machine Learning
+
+📜 License
+This project is open-source and available under the MIT License.
+
 
 
